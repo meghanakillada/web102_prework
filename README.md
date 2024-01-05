@@ -34,7 +34,7 @@ While working on this project, I was stuck on the Javascript functions since I a
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Maggie Killada]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
